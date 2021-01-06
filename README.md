@@ -57,7 +57,6 @@
 <ul>
    <a align='left' href='https://www.linkedin.com/in/reynaldo-ayala-1b18b172/' alt='Reynaldo Ayala'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
    <a href='https://reynaldo-ayala.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
+   <a href='https://reynaldoportfolio.com/' alt='portfolio' > <> Portfolio  /> </a>
 </ul>
-- [Portfolio](https://reynaldoportfolio.com/)
-- [How hackers make a living bug bounty edition](https://reynaldo-ayala.medium.com/how-hackers-make-a-living-bug-bounty-edition-4435e1e4d338)
 
