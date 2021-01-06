@@ -7,6 +7,7 @@
 
 ## Languages and Tools 🛠:
 <ul>
+   
    <img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby' /> 
 
    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='JavaScript' />
@@ -28,6 +29,12 @@
    <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS' />
    
    <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='Heroku' />
+   
+   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' />
+   
+   <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' alt='React Router' />
+   
+   <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='RostgreSQL' />
 
 </ul>
 
@@ -50,5 +57,6 @@
 <ul>
    <a align='left' href='https://www.linkedin.com/in/reynaldo-ayala-1b18b172/' alt='Reynaldo Ayala'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
    <a href='https://reynaldo-ayala.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
+   <a href='https://reynaldoportfolio.com/' alt='portfolio > <h1> Portfolio 📊 </h1> </a>
 </ul>
 
