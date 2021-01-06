@@ -26,12 +26,14 @@
    <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' />
    
    <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS' />
+   
+   <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='Heroku' />
 
 </ul>
 
 ## Currently Learning 💭:
-   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
-
+   <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React Native' />
+   
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
@@ -46,8 +48,7 @@
 
 ## Connect with me 👥:
 <ul>
-   <a align='left' href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
-   <a align='left' href='https://twitter.com/devjoecgomez' alt='devjoecgomez'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' /> </a>
-    <a align='left' href='https://www.youtube.com/channel/UCwLqQxU0xFZefEVC3oix7Dw' alt='devjoecgomez'> <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' /> </a>
-   <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
+   <a align='left' href='https://www.linkedin.com/in/reynaldo-ayala-1b18b172/' alt='Reynaldo Ayala'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
+   <a href='https://reynaldo-ayala.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
 </ul>
+
