@@ -59,4 +59,5 @@
    <a href='https://reynaldo-ayala.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
 </ul>
 - [Portfolio](https://reynaldoportfolio.com/)
+- [How hackers make a living bug bounty edition](https://reynaldo-ayala.medium.com/how-hackers-make-a-living-bug-bounty-edition-4435e1e4d338)
 
