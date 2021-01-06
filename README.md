@@ -1,11 +1,9 @@
-# Reynaldo-Ayala
+# Hey y'all, I'm Rey 👋
+## I'm a Full Stack Web Development, Ruby on Rails and JavaScript(React) program 👨‍💻
 
-# Hey y'all, I'm Joe 👋
-## I'm a Full Stack Web Development, Ruby on Rails and JavaScript program 👨‍💻
-
-- I'm always listening to music 🎶
+- I'm always listening to personal development ⏳
 - Constantly learning something new 🧠
-- 2021 Goals: Have my portfolio site up! ⭐️
+- 2021 Goals: Build a mobile app and launch it on the Apple Store! 📲
 
 ## Languages and Tools 🛠:
 <ul>
