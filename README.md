@@ -36,10 +36,10 @@
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
 - [How to host Ruby on Rails on Heroku](https://reynaldo-ayala.medium.com/how-to-connect-ruby-on-rails-api-to-heroku-93dcfb122835)
-- [Depth-First Search and Breadth-First Search Fundamental Difference](https://medium.com/@devjoe/depth-first-search-and-breadth-first-search-fundamental-difference-c06342e0f8ba?source=rss-17c518b9b391------2)
-- [Strongly Connected Component](https://medium.com/@devjoe/strongly-connected-component-fa0449b16ce0?source=rss-17c518b9b391------2)
-- [Taking a Detoured to Success](https://medium.com/@devjoe/taking-a-detoured-to-success-5d8c85ee90f8?source=rss-17c518b9b391------2)
-- [My Understanding of A.I.](https://medium.com/@devjoe/my-understanding-of-a-i-f0697d351257?source=rss-17c518b9b391------2)
+- [React Native with Expo CLient](https://reynaldo-ayala.medium.com/see-your-react-native-app-on-your-phone-with-expo-client-2d706b981fbe)
+- [How to user React Boostrap Table on React.js](https://reynaldo-ayala.medium.com/how-to-use-react-bootstrap-table-on-react-js-d7006564b297)
+- [Facial Recognition](https://reynaldo-ayala.medium.com/facial-recognition-with-javascript-4bf928320957)
+- [How hackers make a living bug bounty edition](https://reynaldo-ayala.medium.com/how-hackers-make-a-living-bug-bounty-edition-4435e1e4d338)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
