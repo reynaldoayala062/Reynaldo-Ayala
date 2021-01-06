@@ -35,7 +35,7 @@
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
-- [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
+- [How to host Ruby on Rails on Heroku](https://reynaldo-ayala.medium.com/how-to-connect-ruby-on-rails-api-to-heroku-93dcfb122835)
 - [Depth-First Search and Breadth-First Search Fundamental Difference](https://medium.com/@devjoe/depth-first-search-and-breadth-first-search-fundamental-difference-c06342e0f8ba?source=rss-17c518b9b391------2)
 - [Strongly Connected Component](https://medium.com/@devjoe/strongly-connected-component-fa0449b16ce0?source=rss-17c518b9b391------2)
 - [Taking a Detoured to Success](https://medium.com/@devjoe/taking-a-detoured-to-success-5d8c85ee90f8?source=rss-17c518b9b391------2)
